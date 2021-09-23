@@ -1,0 +1,1 @@
+web: streamlit run insightProject.py --server.port $PORT --browser.serverAddress https://clientmatchmaker.herokuapp.com
